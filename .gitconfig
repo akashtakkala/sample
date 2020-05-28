@@ -1,0 +1,7 @@
+[user]
+	name = akashsreddy5
+	email = akashsreddy5@gmail.com
+[help]
+	autocorrect = 1
+[core]
+	editor = vim
